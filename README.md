@@ -1,6 +1,6 @@
-# Python CRUD Application for [Business Domain]
+# Python CRUD Application for [Data Karyawan Perusahaan]
 
-A comprehensive Python application for managing [Data Entity] data with Create, Read, Update, and Delete (CRUD) operations.
+A comprehensive Python application for managing [Data Karyawan] data with Create, Read, Update, and Delete (CRUD) operations.
 
 ## Business Understanding
 
