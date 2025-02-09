@@ -1,10 +1,10 @@
-# Python CRUD Application for [Data Karyawan Perusahaan]
+# Python CRUD Application for [Data Personel Polsek Plaju]
 
-A comprehensive Python application for managing [Data Karyawan] data with Create, Read, Update, and Delete (CRUD) operations.
+A comprehensive Python application for managing [Data Personel Polsek Plaju] data with Create, Read, Update, and Delete (CRUD) operations.
 
 ## Business Understanding
 
-This project caters to the [Industry/Business Domain] industry, specifically addressing the need to manage [Data Entity] data efficiently. [Data Entity] plays a crucial role in [Explain the importance of data entity in business processes].
+This project caters to the [Plaju Sector Police] specifically addressing the need to manage [Police Personnel] data efficiently. [Police Personnel] plays a crucial role in [Law Enforcement in Plaju Police Sector].
 
 **Benefits:**
 

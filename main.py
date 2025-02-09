@@ -1,10 +1,8 @@
 # ===================================
-# [Your Program Title]
+# [Data Personel Polsek Plaju]
 # ===================================
 # Developed by. A.Rheza.R
 # JCDS - 0512
-
-
 # /************************************/
 
 # /===== Data Model =====/
